@@ -51,8 +51,6 @@
 11091+Broccoli, cooked, boiled, drained, without salt371 spear+0.25
 11740+Broccoli, flower clusters, raw111 floweret+0.10
 11090+Broccoli, raw311 spear+0.23
-01001+Butter, salted14.21 tbsp+0.00
-01145+Butter, without salt14.21 tbsp+0.00
 18086+Cake, angelfood, commercially prepared281 piece+0.15
 18088+Cake, angelfood, dry mix, prepared501 piece+0.12
 18090+Cake, boston cream pie, commercially prepared921 piece+0.35
@@ -90,23 +88,15 @@
 19127+Candies, milk chocolate coated raisins1010 pieces+0.17
 19069+Candies, NESTLE, BUTTERFINGER Bar71 fun size bar+0.06
 19164+Candies, SPECIAL DARK Chocolate Bar8.41 miniature+0.18
-09060+Carambola, (starfruit), raw911 fruit+0.07
-16055+Carob flour81 tbsp+0.24
-11960+Carrots, baby, raw101 medium+0.09
-11124+Carrots, raw721 carrot+0.22
-11935+Catsup151 tbsp+0.08
-11935+Catsup61 packet+0.03
+09060+Carambola, (starfruit), raw911 fruit+0.0711960+Carrots, baby, raw101 medium+0.09
+11124+Carrots, raw721 carrot+0.2211935+Catsup61 packet+0.03
 11136+Cauliflower, cooked, boiled, drained, without salt543 flowerets+0.17
 11135+Cauliflower, raw131 floweret+0.05
 11144+Celery, cooked, boiled, drained, without salt37.51 stalk+0.16
-11143+Celery, raw401 stalk+0.08
-08084+Cereals ready-to-eat, wheat germ, toasted, plain7.1191 tbsp+0.65
-08147+Cereals ready-to-eat, wheat, shredded, plain, sugar and salt free462 biscuits+1.36
+11143+Celery, raw401 stalk+0.0808147+Cereals ready-to-eat, wheat, shredded, plain, sugar and salt free462 biscuits+1.36
 08109+Cereals, CREAM OF WHEAT, mix'n eat, plain, prepared with water1421 packet+8.09
 08511+Cereals, Malt-o-Meal, plain, prepared with water, without salt2681serving (3 T dry cereal p1+7.23
 01007+Cheese, camembert381 wedge+0.13
-01186+Cheese, cream, fat free15.61 tbsp+0.03
-01032+Cheese, parmesan, grated51 tbsp+0.05
 18147+Cheesecake commercially prepared801 piece+0.50
 09070+Cherries, sweet, raw6810 cherries+0.24
 22906+Chicken pot pie, frozen entree, prepared2171 small pie+2.39
@@ -121,13 +111,9 @@
 05098+Chicken, broilers or fryers, thigh, meat only, cooked, roasted521 thigh+0.56
 05101+Chicken, broilers or fryers, wing, meat and skin, cooked, fried, batter491 wing+0.63
 05028+Chicken, liver, all classes, cooked, simmered19.61 liver+2.28
-11156+Chives, raw31 tbsp+0.05
-14181+Chocolate syrup18.751 tbsp+0.40
 14192+Cocoa mix, powder28.353 heaping tsp+0.34
 14194+Cocoa mix, powder, prepared with water2061 serving+0.35
-14390+Cocoa mix, with aspartame, powder, prepared with water1921 serving+0.75
-19165+Cocoa, dry powder, unsweetened5.41 tbsp+0.75
-18104+Coffeecake, cinnamon with crumb topping, commercially prepared, enriched631 piece+1.20
+14390+Cocoa mix, with aspartame, powder, prepared with water1921 serving+0.7518104+Coffeecake, cinnamon with crumb topping, commercially prepared, enriched631 piece+1.20
 18151+Cookies, brownies, commercially prepared561 brownie+1.26
 18197+Cookies, brownies, dry mix, special dietary, prepared221 brownie+0.30
 18155+Cookies, butter, commercially prepared, enriched51 cookie+0.11
@@ -156,9 +142,7 @@
 18212+Cookies, vanilla wafers, lower fat41 cookie+0.10
 11901+Corn, sweet, white, cooked, boiled, drained, without salt771 ear+0.42
 11168+Corn, sweet, yellow, cooked, boiled, drained, without salt771 ear+0.35
-11181+Corn, sweet, yellow, frozen, kernels on cob, cooked, boiled, drained, without salt631 ear+0.38
-20027+Cornstarch8.0641 tbsp+0.04
-18214+Crackers, cheese, regular1010 crackers+0.49
+11181+Corn, sweet, yellow, frozen, kernels on cob, cooked, boiled, drained, without salt631 ear+0.3818214+Crackers, cheese, regular1010 crackers+0.49
 18215+Crackers, cheese, sandwich-type with peanut butter filling71 sandwich+0.19
 18217+Crackers, matzo, plain28.351 matzo+0.90
 18220+Crackers, melba toast, plain204 pieces+0.74
@@ -168,25 +152,13 @@
 18230+Crackers, standard snack-type, sandwich, with cheese filling71 sandwich+0.17
 18232+Crackers, wheat, regular84 crackers+0.38
 18235+Crackers, whole-wheat164 crackers+0.53
-09081+Cranberry sauce, canned, sweetened571 slice+0.13
-01067+Cream substitute, liquid, with hydrogenated vegetable oil and soy protein151 tbsp+0.00
-01069+Cream substitute, powdered21 tsp+0.02
-01049+Cream, fluid, half and half151 tbsp+0.01
-01053+Cream, fluid, heavy whipping151 tbsp+0.00
-01050+Cream, fluid, light (coffee cream or table cream)151 tbsp+0.01
-01052+Cream, fluid, light whipping151 tbsp+0.00
-01056+Cream, sour, cultured121 tbsp+0.02
-01055+Cream, sour, reduced fat, cultured151 tbsp+0.01
-01054+Cream, whipped, cream topping, pressurized31 tbsp+0.00
-15142+Crustaceans, crab, blue, crab cakes601 cake+0.65
+09081+Cranberry sauce, canned, sweetened571 slice+0.1301069+Cream substitute, powdered21 tsp+0.0215142+Crustaceans, crab, blue, crab cakes601 cake+0.65
 15150+Crustaceans, shrimp, mixed species, cooked, breaded and fried456 large+0.57
 11206+Cucumber, peeled, raw2801 large+0.62
 11205+Cucumber, with peel, raw3011 large+0.84
 18245+Danish pastry, cheese711 danish+1.14
 18246+Danish pastry, fruit, enriched (includes apple, cinnamon, raisin, lemon, raspberry, strawberry)711 danish+1.26
 09087+Dates, deglet noor41.55 dates+0.42
-01072+Dessert topping, pressurized41 tbsp+0.00
-01073+Dessert topping, semi solid, frozen41 tbsp+0.00
 02045+Dill weed, fresh15 sprigs+0.07
 18248+Doughnuts, cake-type, plain (includes unsugared, old-fashioned)471 medium+1.41
 18248+Doughnuts, cake-type, plain (includes unsugared, old-fashioned)141 hole+0.42
@@ -269,9 +241,7 @@
 18268+French toast, frozen, ready-to-heat591 slice+1.30
 18269+French toast, prepared from recipe, made with low fat (2%) milk651 slice+1.09
 19226+Frostings, chocolate, creamy, ready-to-eat381/12 package+0.54
-19230+Frostings, vanilla, creamy, ready-to-eat381/12 package+0.06
-19294+Fruit butters, apple171 tbsp+0.05
-35142+Frybread, made with lard (Navajo)16010-1/2" bread+6.46
+19230+Frostings, vanilla, creamy, ready-to-eat381/12 package+0.0635142+Frybread, made with lard (Navajo)16010-1/2" bread+6.46
 35142+Frybread, made with lard (Navajo)905" bread+3.64
 11215+Garlic, raw31 clove+0.05
 09136+Grape juice cocktail, frozen concentrate, undiluted, with added ascorbic acid2166-fl-oz can+0.78
@@ -282,41 +252,25 @@
 07027+Ham, chopped, not canned212 slices+0.17
 07028+Ham, sliced, prepackaged (96% fat free, water added)56.72 slices+0.32
 07029+Ham, sliced, regular (approximately 11% fat)56.72 slices+0.58
-11961+Hearts of palm, canned331 piece+1.03
-19296+Honey211 tbsp+0.09
-02055+Horseradish, prepared51 tsp+0.02
-16158+Hummus, commercial141 tbsp+0.34
-19297+Jams and preserves201 tbsp+0.10
-19300+Jellies191 tbsp+0.04
-18505+KELLOGG'S Eggo Lowfat Homestyle Waffles351 waffle+1.95
-04002+Lard12.81 tbsp+0.00
-18369+Leavening agents, baking powder, double-acting, sodium aluminum sulfate4.61 tsp+0.51
+11961+Hearts of palm, canned331 piece+1.0302055+Horseradish, prepared51 tsp+0.0218505+KELLOGG'S Eggo Lowfat Homestyle Waffles351 waffle+1.9518369+Leavening agents, baking powder, double-acting, sodium aluminum sulfate4.61 tsp+0.51
 18370+Leavening agents, baking powder, double-acting, straight phosphate4.61 tsp+0.52
 18371+Leavening agents, baking powder, low-sodium51 tsp+0.41
 18372+Leavening agents, baking soda4.61 tsp+0.00
 18373+Leavening agents, cream of tartar31 tsp+0.11
 18375+Leavening agents, yeast, baker's, active dry71 pkg+0.15
 18375+Leavening agents, yeast, baker's, active dry41 tsp+0.09
-18374+Leavening agents, yeast, baker's, compressed171 cake+0.55
-09153+Lemon juice, canned or bottled15.21 tbsp+0.02
-09152+Lemon juice, raw47juice of 1 lemon+0.04
+18374+Leavening agents, yeast, baker's, compressed171 cake+0.5509152+Lemon juice, raw47juice of 1 lemon+0.04
 09150+Lemons, raw, without peel581 lemon+0.35
 11250+Lettuce, butterhead (includes boston and bibb types), raw7.51 medium leaf+0.09
 11250+Lettuce, butterhead (includes boston and bibb types), raw1631 head+2.02
 11251+Lettuce, cos or romaine, raw101 leaf+0.10
 11253+Lettuce, green leaf, raw101 leaf+0.09
 11252+Lettuce, iceberg (includes crisphead types), raw5391 head+2.21
-11252+Lettuce, iceberg (includes crisphead types), raw81 medium+0.03
-09161+Lime juice, canned or bottled, unsweetened15.41 tbsp+0.04
-09160+Lime juice, raw38juice of 1 lime+0.03
+11252+Lettuce, iceberg (includes crisphead types), raw81 medium+0.0309160+Lime juice, raw38juice of 1 lime+0.03
 22970+Macaroni and cheese, frozen entree2831 package+1.61
 14315+Malted drink mix, chocolate, with added nutrients, powder213 heaping tsp+3.65
 14309+Malted drink mix, natural, with added nutrients, powder214-5 heaping tsp+2.67
 09176+Mangos, raw2071 mango+0.33
-04610+Margarine, regular, 80% fat, composite, stick, with salt141 tbsp+0.01
-04611+Margarine, regular, 80% fat, composite, tub, with salt14.21 tbsp+0.00
-04585+Margarine-like, margarine-butter blend, soybean oil and butter14.21 tbsp+0.01
-04612+Margarine-like, vegetable oil spread, 60% fat, stick, with salt14.31 tbsp+0.00
 04612+Margarine-like, vegetable oil spread, 60% fat, stick, with salt4.81 tsp+0.00
 04613+Margarine-like, vegetable oil spread, 60% fat, tub, with salt4.81 tsp+0.00
 04128+Margarine-like, vegetable oil spread, unspecified oils, approximately 37% fat, with salt4.81 tsp+0.00
@@ -335,21 +289,9 @@
 02046+Mustard, prepared, yellow51 tsp or 1 packet+0.08
 18651+NABISCO, NABISCO SNACKWELL'S Fat Free Devil's Food Cookie Cakes161 cookie+0.44
 12104+Nuts, coconut meat, raw451 piece+1.09
-12147+Nuts, pine nuts, dried8.61 tbsp+0.48
-04582+Oil, canola141 tbsp+0.00
-04518+Oil, corn, industrial and retail, all purpose salad or cooking13.61 tbsp+0.00
-04053+Oil, olive, salad or cooking13.51 tbsp+0.08
-04042+Oil, peanut, salad or cooking13.51 tbsp+0.00
-04511+Oil, safflower, salad or cooking, high oleic (primary safflower oil of commerce)13.61 tbsp+0.00
-04058+Oil, sesame, salad or cooking13.61 tbsp+0.00
-04034+Oil, soybean, salad or cooking, (partially hydrogenated)13.61 tbsp+0.00
-04543+Oil, soybean, salad or cooking, (partially hydrogenated) and cottonseed13.61 tbsp+0.00
-04506+Oil, sunflower, linoleic, (approx. 65%)13.61 tbsp+0.00
 09193+Olives, ripe, canned (small-extra large)225 large+0.73
 11296+Onion rings, breaded, par fried, frozen, prepared, heated in oven6010 rings+1.01
-11283+Onions, cooked, boiled, drained, without salt941 medium+0.23
-11284+Onions, dehydrated flakes51 tbsp+0.08
-11282+Onions, raw1101 whole+0.23
+11283+Onions, cooked, boiled, drained, without salt941 medium+0.2311282+Onions, raw1101 whole+0.23
 11282+Onions, raw141 slice+0.03
 11291+Onions, spring or scallions (includes tops and bulb), raw151 whole+0.22
 09214+Orange juice, frozen concentrate, unsweetened, undiluted2136-fl-oz can+0.75
@@ -364,8 +306,6 @@
 09238+Peaches, canned, juice pack, solids and liquids981 half+0.26
 09246+Peaches, dried, sulfured, uncooked393 halves+1.58
 09236+Peaches, raw981 peach+0.25
-16097+Peanut butter, chunk style, with salt161 tbsp+0.30
-16098+Peanut butter, smooth style, with salt161 tbsp+0.30
 09340+Pears, asian, raw2751 pear+0.00
 09340+Pears, asian, raw1221 pear+0.00
 09257+Pears, canned, heavy syrup pack, solids and liquids761 half+0.17
@@ -375,9 +315,7 @@
 11819+Peppers, hot chili, red, raw451 pepper+0.46
 11333+Peppers, sweet, green, raw101 ring+0.03
 11333+Peppers, sweet, green, raw1191 pepper+0.40
-11821+Peppers, sweet, red, raw1191 pepper+0.51
-11945+Pickle relish, sweet151 tbsp+0.13
-11937+Pickles, cucumber, dill or kosher dill651 pickle+0.24
+11821+Peppers, sweet, red, raw1191 pepper+0.5111937+Pickles, cucumber, dill or kosher dill651 pickle+0.24
 18330+Pie crust, cookie-type, prepared from recipe, graham cracker, baked2391 pie shell+5.19
 18335+Pie crust, standard-type, frozen, ready-to-bake, enriched, baked1261 pie shell+3.53
 18336+Pie crust, standard-type, prepared from recipe, baked1801 pie shell+5.20
@@ -398,9 +336,7 @@
 18324+Pie, pecan, commercially prepared1131 piece+1.05
 18325+Pie, pecan, prepared from recipe1221 piece+1.81
 18326+Pie, pumpkin, commercially prepared1091 piece+0.98
-18327+Pie, pumpkin, prepared from recipe1551 piece+1.97
-11943+Pimento, canned121 tbsp+0.20
-09270+Pineapple, canned, heavy syrup pack, solids and liquids491 slice+0.19
+18327+Pie, pumpkin, prepared from recipe1551 piece+1.9709270+Pineapple, canned, heavy syrup pack, solids and liquids491 slice+0.19
 09268+Pineapple, canned, juice pack, solids and liquids471 slice+0.13
 21224+Pizza, cheese topping, regular crust, frozen, cooked631 serving+1.43
 21226+Pizza, meat and vegetable topping, regular crust, frozen, cooked791 serving+1.07
@@ -427,36 +363,10 @@
 09298+Raisins, seedless141 packet+0.26
 18342+Rolls, dinner, plain, commercially prepared (includes brown-and-serve)281 roll+1.04
 18350+Rolls, hamburger or hotdog, plain431 roll+1.47
-18353+Rolls, hard (includes kaiser)571 roll+1.87
-04539+Salad dressing, blue or roquefort cheese dressing, commercial, regular15.31 tbsp+0.01
-04120+Salad dressing, french dressing, commercial, regular15.61 tbsp+0.12
-04020+Salad dressing, french dressing, reduced fat16.31 tbsp+0.12
-04133+Salad dressing, french, home recipe141 tbsp+0.03
-04134+Salad dressing, home recipe, cooked161 tbsp+0.08
-04135+Salad dressing, home recipe, vinegar and oil15.61 tbsp+0.00
-04114+Salad dressing, italian dressing, commercial, regular14.71 tbsp+0.09
-04021+Salad dressing, italian dressing, reduced fat151 tbsp+0.10
-04025+Salad dressing, mayonnaise, soybean oil, with salt13.81 tbsp+0.03
-04015+Salad dressing, russian dressing15.31 tbsp+0.09
-04022+Salad dressing, russian dressing, low calorie16.31 tbsp+0.10
-04023+Salad dressing, thousand island dressing, reduced fat15.31 tbsp+0.14
-04017+Salad dressing, thousand island, commercial, regular15.61 tbsp+0.18
-07069+Salami, cooked, beef and pork56.72 slices+0.88
+18353+Rolls, hard (includes kaiser)571 roll+1.8707069+Salami, cooked, beef and pork56.72 slices+0.88
 07072+Salami, dry or hard, pork, beef202 slices+0.30
-02047+Salt, table61 tsp+0.02
-07073+Sandwich spread, pork, beef151 tbsp+0.12
-06150+Sauce, barbecue15.751 tbsp+0.03
-06175+Sauce, hoisin, ready-to-serve161 tbsp+0.16
-06168+Sauce, ready-to-serve, pepper or hot4.71 tsp+0.02
-06164+Sauce, salsa, ready-to-serve161 tbsp+0.07
-06112+Sauce, teriyaki, ready-to-serve181 tbsp+0.31
-07083+Sausage, Vienna, canned, chicken, beef, pork161 sausage+0.14
-11445+Seaweed, kelp, raw102 tbsp+0.29
-11667+Seaweed, spirulina, dried0.931 tbsp+0.27
-12166+Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)151 tbsp+1.34
-11677+Shallots, raw101 tbsp+0.12
-04031+Shortening, household, soybean (partially hydrogenated)-cottonseed (partially hydrogenated)12.81 tbsp+0.00
-19002+Snacks, beef jerky, chopped and formed19.81 large piece+1.07
+02047+Salt, table61 tsp+0.0206168+Sauce, ready-to-serve, pepper or hot4.71 tsp+0.02
+07083+Sausage, Vienna, canned, chicken, beef, pork161 sausage+0.1419002+Snacks, beef jerky, chopped and formed19.81 large piece+1.07
 19014+Snacks, fruit leather, rolls211 large+0.21
 19015+Snacks, granola bars, hard, plain28.351 bar+0.84
 19026+Snacks, granola bars, soft, coated, milk chocolate coating, peanut butter28.351 bar+0.41
@@ -469,8 +379,6 @@
 19051+Snacks, rice cakes, brown rice, plain91 cake+0.13
 06075+Soup, beef broth or bouillon, powder, dry61 packet+0.06
 06094+Soup, onion, dry, mix391 packet+0.49
-01058+Sour dressing, non-butterfat, cultured, filled cream-type121 tbsp+0.00
-16123+Soy sauce made from soy and wheat (shoyu)161 tbsp+0.31
 22401+Spaghetti with meat sauce, frozen entree2831 package+3.54
 02007+Spices, celery seed21 tsp+0.90
 02009+Spices, chili powder2.61 tsp+0.45
@@ -479,26 +387,16 @@
 02020+Spices, garlic powder2.81 tsp+0.16
 02026+Spices, onion powder2.11 tsp+0.08
 02027+Spices, oregano, dried1.51 tsp+0.55
-02028+Spices, paprika2.11 tsp+0.44
-02029+Spices, parsley, dried1.31 tbsp+0.29
-02030+Spices, pepper, black2.11 tsp+0.20
+02028+Spices, paprika2.11 tsp+0.4402030+Spices, pepper, black2.11 tsp+0.20
 11457+Spinach, raw101 leaf+0.27
 09316+Strawberries, raw121 strawberry+0.05
 09316+Strawberries, raw181 strawberry+0.07
 19334+Sugars, brown3.21 tsp+0.02
-19335+Sugars, granulated4.21 tsp+0.00
-19336+Sugars, powdered81 tbsp+0.00
-11508+Sweet potato, cooked, baked in skin, without salt1461 potato+1.01
+19335+Sugars, granulated4.21 tsp+0.0011508+Sweet potato, cooked, baked in skin, without salt1461 potato+1.01
 11510+Sweet potato, cooked, boiled, without skin1561 potato+1.12
 11659+Sweet potato, cooked, candied, home-prepared1051 piece+1.19
 18356+Sweet rolls, cinnamon, commercially prepared with raisins601 roll+0.96
-18358+Sweet rolls, cinnamon, refrigerated dough with frosting, baked301 roll+0.80
-19348+Syrups, chocolate, fudge-type191 tbsp+0.25
-19350+Syrups, corn, light201 tbsp+0.00
-19353+Syrups, maple201 tbsp+0.02
-19129+Syrups, table blends, pancake201 tbsp+0.01
-19128+Syrups, table blends, pancake, reduced-calorie151 tbsp+0.00
-18360+Taco shells, baked13.31 medium+0.25
+18358+Sweet rolls, cinnamon, refrigerated dough with frosting, baked301 roll+0.8018360+Taco shells, baked13.31 medium+0.25
 09218+Tangerines, (mandarin oranges), raw841 tangerine+0.13
 18361+Toaster pastries, brown-sugar-cinnamon501 pastry+2.02
 18362+Toaster pastries, fruit (includes apple, blueberry, cherry, strawberry)521 pastry+2.00
